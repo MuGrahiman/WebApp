@@ -1,0 +1,3 @@
+[submodule "WebAppClient"]
+	path = WebAppClient
+	url = https://github.com/MuGrahiman/WebAppClient.git
